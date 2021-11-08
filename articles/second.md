@@ -14,3 +14,5 @@ taxonomy:
     -   \_imagesフォルダを作ると、更新が完了しないようだ
 
 ![img](./_images/pic1.png)
+
+-   ヒエラルキーで設定し直す
