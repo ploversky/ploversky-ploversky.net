@@ -19,4 +19,4 @@ taxonomy:
 
 -   Wordpress側の設定
 -   Github側の設定
-    -   Webhook
+    -   Webhookも設定する
