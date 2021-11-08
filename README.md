@@ -1,2 +1,1 @@
-# ploversky-ploversky.net
-https://ploversky.net/
+# wordpress_content
