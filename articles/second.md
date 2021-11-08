@@ -16,3 +16,7 @@ taxonomy:
 ![img](./_images/pic1.png)
 
 -   ヒエラルキーで設定し直す
+
+-   Wordpress側の設定
+-   Github側の設定
+    -   Webhook
