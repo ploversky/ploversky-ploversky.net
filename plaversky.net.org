@@ -68,3 +68,10 @@ taxonomy:
 - Github側の設定
   - Webhookも設定する
     - 動かなくなった
+
+** 3つめの記事
+:PROPERTIES:
+:EXPORT_FILE_NAME: articles/third.md
+:END:
+
+これはどう？
