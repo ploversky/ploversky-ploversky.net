@@ -67,3 +67,4 @@ taxonomy:
 - Wordpress側の設定
 - Github側の設定
   - Webhookも設定する
+    - 動かなくなった
