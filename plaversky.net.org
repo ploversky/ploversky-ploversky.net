@@ -39,25 +39,6 @@ taxonomy:
     - もう一度・・・
       ｰ ログをみると、きちんと完了していないかも？
 
-** 2つ目の記事
-:PROPERTIES:
-:EXPORT_FILE_NAME: articles/second.md
-:END:
-
-#+begin_export markdown
----
-title: 2つめの記事
-post_status: publish
-taxonomy:
-    category:
-        - カテゴリA
-    post_tag:
-        - タグ1
----
-#+end_export
-
-2つめの記事。
-
 - イメージ
   - _imagesフォルダを作ると、更新が完了しないようだ
 [[./_images/pic1.png]]
@@ -67,23 +48,6 @@ taxonomy:
 - Github側の設定
   - Webhookも設定する
     - 動かなくなった
-
-** 3つめの記事
-:PROPERTIES:
-:EXPORT_FILE_NAME: articles/third.md
-:END:
-
-#+begin_export markdown
----
-title: 3つめの記事
-post_status: publish
-taxonomy:
-    category:
-        - カテゴリA
-    post_tag:
-        - タグ1
----
-#+end_export
 
 これはどう？
 どうして動かなくなったのかな？
