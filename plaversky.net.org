@@ -1,4 +1,4 @@
-#+STARTUP: overview indent align inlineimages logdone hidestars hideblocks
+#+STARTUP: overview indent align logdone hidestars hideblocks
 #+TITLE: title
 #+AUTHOR: author
 #+DATE: date
@@ -76,3 +76,5 @@ taxonomy:
 
 これはどう？
 どうして動かなくなったのかな？
+WAFのせいかな？
+REST APIの海外からのアクセス制限をオフ
