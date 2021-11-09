@@ -27,6 +27,7 @@ taxonomy:
 
 -   イメージ
     -   \_imagesフォルダを作ると、更新が完了しないようだ
+        -   画像を出してみる
 
 ![img](./_images/pic1.png)
 
