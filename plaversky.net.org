@@ -4,7 +4,8 @@
 #+DATE: date
 #+OPTIONS: toc:nil
 
-* ploversky.netのWordpress記事
+[[https://ploversky.net/][ちどり足ブログ | Chidori Ashi Blog]]
+* 記事（plaversky.net）                                        :@Blog:REFILE:
 ** 1つ目の記事
 :PROPERTIES:
 :EXPORT_FILE_NAME: articles/first.md
@@ -72,3 +73,78 @@ Stack trace:
 #+end_example
 
 - ヒエラルキーで設定し直す
+
+** TODO WS2環境で知的生産性向上
+   :PROPERTIES:
+   :Created:  [2021-11-03 Wed]
+   :CATEGORY: Blog
+   :POST_TAGS: Blog
+   :BLOG:     plover
+   :ID:       o2b:713db11b-9d7e-419c-8795-d5e10e6b90a9
+   :POST_DATE: [2021-11-03 Wed 20:23]
+   :POSTID:   86
+   :END:
+
+*** 概要
+ WSL2は開発環境だと認識されている。
+ しかし、知的な生産性を向上させることのできる技術である。
+
+ + Emacs
+ + Chrome（Webブラウザ）
+ + Nemo
+
+ ここらへんをWSL2から使うとよい。
+ WSL2でXのアプリケーションを簡単に使えるようになってよかった。
+** TODO ポストとページの違い
+   :PROPERTIES:
+   :Created:  [2021-11-03 Wed]
+   :CATEGORY: Blog
+   :POST_TAGS: Blog
+   :BLOG:     plover
+   :ID:       o2b:e990739b-33d2-4907-b762-3ad6b0e92438
+   :POST_DATE: [2021-11-03 Wed 20:20]
+   :POSTID:   84
+   :END:
+
+*** ポストとページの違い
+    + ポストはRSSに出力される
+    + トップページにリンクがはられる
+    + ページはどちらも行われない
+** このブログで利用しているWordpressのテーマ
+   :PROPERTIES:
+   :BLOG:     plover
+   :DATE:     [2021-09-29 Wed 20:29]
+   :OPTIONS:  toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
+   :CATEGORY: Blog
+   :POST_TAGS: Blog
+   :ID:       o2b:8a15b2a2-d784-4329-acd8-952d4442d58c
+   :POST_DATE: [2021-10-10 Sun 23:09]
+   :POSTID:   22
+   :END:
+
+ 利用しているテーマは
+ [[https://thk.kanzae.net/wp/dl/][ダウンロード | Luxeritas Theme]]
+ です。
+** EmacsのorgモードでWordpressの記事を書く方法
+   :PROPERTIES:
+   :CATEGORY: Blog
+   :POST_TAGS: Blog
+   :BLOG:     plover
+   :ID:       o2b:df676356-623d-48f2-b639-61caf47334f9
+   :POST_DATE: [2021-10-10 Sun 23:13]
+   :POSTID:   26
+   :END:
+*** はじめに
+ みんな大好きなEmacsのorgモード。
+
+ こんにちは。
+
+ 数年前に一度試したことがあったのですが、最近のバージョンでは更に使いやすくなっているようです。
+
+ [[https://github.com/org2blog/org2blog#requirements-and-compatibility][org2blog/org2blog: Blog from Org mode to WordPress.]]
+
+ @@wp:<!--more-->@@
+*** つぎに
+ 日本語も問題ないらしい。
+
+ パスワードは~/.netrcに書いておきましょう。
